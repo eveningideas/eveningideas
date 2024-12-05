@@ -1,7 +1,7 @@
-**Evening Ideas (EI)** – Innovating for a Better Tomorrow 🌟
+# **Evening Ideas (EI)** – Innovating for a Better Tomorrow 🌟
 
 
-👋Hi, we’re **@EveningIdeas!**
+**👋**Hi, we’re **@EveningIdeas!**
 
 Welcome to a multidisciplinary hub where innovation meets purpose.
 
@@ -27,7 +27,7 @@ From developing next-gen technologies to exploring sustainable design principles
 
 *Our Focus*
 
-**We are actively researching and studying:**
+### **We are actively researching and studying:**
 
 The fundamentals of conscious building practices.
 **Vaastushastra** principles for designing harmonious spaces.
@@ -39,6 +39,6 @@ Together, we can turn ambitious **ideas** into impactful **realities**.
 
 Let’s build a world where purpose-driven innovation leads the way.
 
-✨ Join the **Evening Ideas** journey ✨
+### ✨ Join the **Evening Ideas** journey ✨
 
 <!--- eveningideas/eveningideas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
