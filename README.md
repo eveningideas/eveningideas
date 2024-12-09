@@ -27,11 +27,12 @@ Whether you're a startup, researcher, or established business, EI provides the t
 
 From developing next-gen technologies to exploring sustainable design principles, our mission is to drive innovation with a positive impact on society.
 
-*Our Focus*
+# *Our Focus* Now
+:stars:
 
 ### **We are actively researching and studying:**
 
-:construction:
+# :construction:
 
 The fundamentals of conscious building practices.
 **Vaastushastra** principles for designing harmonious spaces.
@@ -39,8 +40,11 @@ The integration of **geometry** :infinity: and **sustainability** :earth_asia: i
 Creating innovative layouts for **homes** :house_with_garden:, **office spaces :office:,** **labs :lab_coat:,** **coworking areas,** and *more*.
 Why Join Us?
 At EI, we embrace bold thinking, risk-taking, and interdisciplinary innovation to shape the future.
+
+
 Together, we can turn ambitious **ideas** into impactful **realities**.
 
+## :rice_scene:
 
 
 Let’s build a world where purpose-driven innovation leads the :milky_way: way. 
